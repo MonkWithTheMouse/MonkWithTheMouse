@@ -37,13 +37,13 @@ deployment:
 ## 🛠️ What I Build
 
 - **Retail & martech:** customer and marketing tech
-  for large-scale retail
+  for large-scale retail marrying omni experiences coming  to one roof
 - **Multi-agent systems:** a local-first voice agent
-  (JARVIS), multi-vendor model routing
-- **Applied AI:** a 5-agent tax assistant (TaxGuard)
-- **Tech for community:** a native Android app for a
-  local puja committee's donations and expenses
-- **Tech for people:** an anonymous peer-chat mobile app
+  (JARVIS), multi-vendor model routing, Agentic consulting suite
+- **Applied AI:** a 5-agent tax assistant (TaxGuard) for your tax engine extension
+- **Tech for community:** a native mobile app for a
+  local puja committee's donations and expenses; Native agentic mobile version for elders to help their in mobile tech journey independent
+- **Tech for people:** an anonymous peer-chat mobile app with twist of fun gamification- healing doesn't to be all decked but can be comfy too
 
 ---
 
@@ -63,4 +63,4 @@ deployment:
 ## 📫 Let's Connect
 
 - **Email:** buildwitharijit@gmail.com 
-- **Base:** Bengaluru/ Calcutta-born · Remote-friendly
+- **Base:** Bengaluru/ Calcutta · Remote-friendly
