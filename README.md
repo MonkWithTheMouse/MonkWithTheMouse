@@ -31,22 +31,23 @@ deployment:
   Vercel, AWS / GCP
 - **Product & Data:** Figma, Claude Code, Cursor,
   Analytics, Telemetry
-
 ---
-
 ## 🛠️ What I Build
 
-- **Retail & martech:** customer and marketing tech
-  for large-scale retail marrying omni experiences coming  to one roof
-- **Multi-agent systems:** a local-first voice agent
-  (JARVIS), multi-vendor model routing, Agentic consulting suite
-- **Applied AI:** a 5-agent tax assistant (TaxGuard) for your tax engine extension
-- **Tech for community:** a native mobile app for a
-  local puja committee's donations and expenses; Native agentic mobile version for elders to help their in mobile tech journey independent
-- **Tech for people:** an anonymous peer-chat mobile app with twist of fun gamification- healing doesn't to be all decked but can be comfy too
-
+- **Retail & Martech:** Making every touchpoint feel
+  like one store. Online, offline and everything
+  between, under one roof.
+- **Agentic Systems:** AI that plans, routes and
+  works alongside you, from personal voice agents
+  to consulting-grade workflows.
+- **Applied AI:** Taming the tax season. Specialist
+  agents working as an extension of your tax engine.
+- **Tech for Community:** Small apps for the people
+  around me, and mobile tech that elders can use
+  without needing help.
+- **Tech for People:** Peer support that doesn't
+  feel heavy. Healing with a little play in it.
 ---
-
 ## 🚀 How I Work
 
 - **Build to learn:** I ship a working version early
@@ -62,5 +63,6 @@ deployment:
 
 ## 📫 Let's Connect
 
-- **Email:** buildwitharijit@gmail.com 
+- **Email:** buildwitharijit@gmail.com
+- **TG** **: Monk_with_the_mouse
 - **Base:** Bengaluru/ Calcutta · Remote-friendly
