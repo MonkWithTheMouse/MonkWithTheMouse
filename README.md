@@ -37,5 +37,5 @@ I build to learn. A working version answers more than a document, and it gives e
 ## 📫 Let's Connect
 
 - **Email:** buildwitharijit@gmail.com
-- **TG** **: Monk_with_the_mouse
+- **TG:** Monk_with_the_mouse
 - **Base:** Bengaluru/ Calcutta · Remote-friendly
