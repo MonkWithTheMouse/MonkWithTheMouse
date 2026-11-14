@@ -16,19 +16,22 @@ I run AI agents like a small engineering team. I own scope, review and the relea
 **🔄 How it operates**
 
 🎯 I write the intent: the problem, the constraint, what "done" looks like.
+
 🌿 An agent builds it on a branch, never on main.
+
 🔍 It opens a pull request. I read the diff before anything merges.
+
 ✅ I merge. Then every copy of the repo pulls the same version.
 
 ## 🛡️ Guardrails: human in the loop
 
-- 🔐 **Secrets stay out of git.** Keys live in a private `.env` and never in the repo.
+ 🔐 **Secrets stay out of git.** Keys live in a private `.env` and never in the repo.
 
-- 🚫 **No agent writes to `main`.** Every change goes through a branch and a pull request.
+ 🚫 **No agent writes to `main`.** Every change goes through a branch and a pull request.
 
-- 👀 **Human review before every merge.** I read each diff, and I'm the only one who can approve it.
+ 👀 **Human review before every merge.** I read each diff, and I'm the only one who can approve it.
 
-- 🧑‍⚖️ **I make the release call.** Agents propose. I decide.
+ 🧑‍⚖️ **I make the release call.** Agents propose. I decide.
 
 💡 **What this is for**
 
