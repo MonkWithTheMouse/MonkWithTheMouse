@@ -23,7 +23,7 @@ I run AI agents like a small engineering team. I own scope, review and the relea
 
 ✅ I merge. Then every copy of the repo pulls the same version.
 
-## 🛡️ Guardrails: human in the loop
+## 🛡️ Guardrails: Human in the loop (HITL)
 
  🔐 **Secrets stay out of git.** Keys live in a private `.env` and never in the repo.
 
