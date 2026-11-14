@@ -1,4 +1,4 @@
-<img width="691" height="302" alt="Screenshot 2026-11-14 at 7 43 02 PM" src="https://github.com/user-attachments/assets/8212f0cf-baae-4f13-8757-8f1480057281" />👋 Hi, I'm Aj
+👋 Hi, I'm Aj
 
 🧑‍💻 Engineer turned product manager. I build working prototypes, then own the product through handover to engineering.
 
@@ -8,12 +8,8 @@
 ## 🛠️ How I build
 I run AI agents like a small engineering team. I own scope, review and the release decision. The agents do the typing. 🤖
 
-- ✍️ **Hands-on builder:** VS Code + Claude Code. I drive one task at a time.
-- 🎼 **Delegated builders:** Conductor. Parallel agents, each on its own branch.
-- ⚡ **Typing helper:** Copilot, for inline autocomplete only.
-- 🏛️ **Source of truth:** GitHub (private repos). Branch, pull request, review, merge.
-- 🗄️ **Data layer:** Neon (Postgres) for web apps, Supabase for mobile.
-- 🦀 **Tooling:** Rust, for small checks and CLI tools.
+
+<img width="691" height="302" alt="Screenshot 2026-11-14 at 7 43 02 PM" src="https://github.com/user-attachments/assets/8212f0cf-baae-4f13-8757-8f1480057281" />
 
 **Flow:** 🧑‍💻 You → 🔨 VS Code / Conductor → 🏛️ GitHub PR → 🗄️ Neon / Supabase
 
